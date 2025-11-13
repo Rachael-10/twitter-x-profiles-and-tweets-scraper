@@ -1,0 +1,62 @@
+[
+  {
+    "type": "tweet",
+    "id": "1519480761749016577",
+    "url": "https://x.com/elonmusk/status/1519480761749016577",
+    "text": "Next I'm buying Coca-Cola to put the cocaine back in",
+    "retweetCount": 620127,
+    "replyCount": 179263,
+    "likeCount": 4434571,
+    "quoteCount": 166686,
+    "createdAt": "Thu Apr 28 00:56:58 +0000 2022",
+    "lang": "en",
+    "bookmarkCount": 21208,
+    "isReply": false,
+    "media": [],
+    "source": "Twitter for iPhone",
+    "author": {
+      "userName": "elonmusk",
+      "url": "https://x.com/elonmusk",
+      "id": "44196397",
+      "name": "Elon Musk",
+      "followers": 201720551,
+      "following": 100,
+      "verified": true,
+      "location": "Mars",
+      "bio": "Technoking of Tesla, Imperator of Mars"
+    }
+  },
+  {
+    "type": "tweet",
+    "id": "1700000000000000000",
+    "url": "https://x.com/example/status/1700000000000000000",
+    "text": "Sample tweet to demonstrate the Bitbash Twitter profiles and tweets scraper pipeline.",
+    "retweetCount": 120,
+    "replyCount": 45,
+    "likeCount": 980,
+    "quoteCount": 12,
+    "createdAt": "Mon Sep 18 10:30:00 +0000 2023",
+    "lang": "en",
+    "bookmarkCount": 15,
+    "isReply": false,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://example.com/media/sample-image.jpg"
+      }
+    ],
+    "source": "Twitter Web App",
+    "author": {
+      "userName": "bitbash_dev",
+      "url": "https://x.com/bitbash_dev",
+      "id": "999999999",
+      "name": "Bitbash",
+      "followers": 5000,
+      "following": 50,
+      "verified": false,
+      "location": "Lahore, PK",
+      "bio": "Automation, scraping and AI-powered data pipelines by Bitbash."
+    },
+    "extraField": "This field is preserved into otherData to show how the parser keeps extended metadata."
+  }
+]
