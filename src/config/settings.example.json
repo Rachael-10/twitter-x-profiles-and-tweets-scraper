@@ -1,0 +1,8 @@
+{
+  "input_file": "data/sample.json",
+  "output_json": "data/output.tweets.json",
+  "output_csv": "data/output.tweets.csv",
+  "min_likes": 0,
+  "since": null,
+  "until": null
+}
